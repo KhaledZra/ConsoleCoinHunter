@@ -8,8 +8,6 @@ Start:
 - 1 - Navigate to project directory with Terminal of choice
 - 2 - Path: ..\ConsoleCoinHunter
 - 3 - Make sure you have .NET installed and enter "Dotnet run"\
-or
-- 1 - Run "..\ConsoleCoinHunter\bin\Debug\net7.0\ConsoleSnek.exe"
 
 Keymap:
 - W or UpArrow - Up
